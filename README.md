@@ -1,4 +1,5 @@
 # solar_system
 3D Solar System by @ 5 JokeRs
 
-Preview : https://codepen.io/R4bb1/pen/NYQqmY 
+Detail View : https://codepen.io/R4bb1/pen/NYQqmY 
+Preview : https://codepen.io/R4bb1/full/yKmOXK/ 
